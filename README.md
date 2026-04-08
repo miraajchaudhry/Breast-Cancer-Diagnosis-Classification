@@ -1,7 +1,7 @@
 # Breast-Cancer-Diagnosis-Classification-Analysis
 
 ## Description
-Developed a python notebook focused on analyzing different machine learning models at classifying cancer cells as malignant or benign. Program allows users to input their own cell data to classify as malignant or benign.
+Developed a python notebook focused on analyzing different machine learning models at classifying cancer cells as malignant or benign. Program allows users to input their own cell data to classify as malignant or benign. This project aims to evaluate the performance of different ML models when data manipulation and processing is minimum (which model handles raw data the best).
 
 ## Features
 - Retrieved cell data
