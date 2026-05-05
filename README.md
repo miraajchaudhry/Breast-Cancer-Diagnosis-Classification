@@ -6,7 +6,8 @@ Developed a python notebook focused on analyzing different machine learning mode
 ## Features
 - Retrieved cell data
 - Evaluated three different models: random forest, support vector machine, and naive Bayes
-- Utilized F1 scores to evaluate performances
+- Utilized recall, precision, and F1 scores to evaluate performances
+- Generated and analyzed PR curves
 - User can input their own cell data to classify
 
 ## Tech Stack
@@ -19,13 +20,8 @@ Developed a python notebook focused on analyzing different machine learning mode
 - Random forest
 - Support Vector Machine
 - Naive Bayes
-- F1 Scores
 
 ## Prerequisites
 - Python installed
 - Required packages: 'pandas', 'scikit-learn'
   
-## Usage
-- Open notebook
-- Input cell data as instructed
-- Program will output whether cell is likely to be malignant or benign
